@@ -1,7 +1,7 @@
 {
   "name": "@dotenvx/dotenvx-windows-amd64",
   "version": "0.2.0",
-  "description": "dotenvx-windows-amd64 binary",
+  "description": "dotenvx-windows-amd64 executable",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dotenvx/dotenvx-windows-amd64.git"
